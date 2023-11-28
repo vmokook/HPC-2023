@@ -1,4 +1,4 @@
-# суммирование элементов двух векторов
+# Cуммирование элементов двух векторов
 
 Ссылка на **[google colab](https://colab.research.google.com/drive/1UypPVG-tVysH46NCGtl7jGJzWN6BD1Ig?usp=sharing)**
 
