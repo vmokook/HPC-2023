@@ -3,7 +3,7 @@
 Ссылка на **   **
 
 ### Результаты:
-![Изображение 128х128](https://github.com/vmokook/HPC-2023/blob/main/Salt and Paper/images/128.png)
+![Изображение 128х128](https://github.com/vmokook/HPC-2023/blob/main/SaltandPaper/images/128.png)
 
 
 
