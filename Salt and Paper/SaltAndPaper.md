@@ -3,8 +3,7 @@
 Ссылка на **   **
 
 ### Результаты:
-Изображение 128х128 
-![Графики времени умножения и ускорения](https://github.com/vmokook/HPC-2023/blob/main/VectorSum/2.png) 
+![Изображение 128х128](https://github.com/vmokook/HPC-2023/blob/main/Salt and Paper/images/128.png)
 
 
 
