@@ -7,6 +7,9 @@
 
 ![Изображение 128х128](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/128.png)
 
+Изображение 256х256: 
+
+![Изображение 256х256](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/128.png)
 
 
 
