@@ -11,6 +11,18 @@
 
 ![Изображение 256х256](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/256.png)
 
+Изображение 512х512: 
+
+![Изображение 512х512](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/512.png)
+
+Изображение 1024х1024: 
+
+![Изображение 1024х1024](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/1024.png)
+
+Изображение 2048х2048: 
+
+![Изображение 2048х2048](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/images/2048.png)
+
 
 
 
