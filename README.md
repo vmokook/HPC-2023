@@ -7,4 +7,4 @@
 
 3. [Salt and Paper](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/SaltAndPaper.md)
 
-4. bilinear_interpolation 
+4. [Bilateral filtering](https://github.com/vmokook/HPC-2023/blob/main/Salt_and_Paper/Bilateral_filtering.md)
