@@ -1,7 +1,7 @@
 # HPC-2023
+Данный репозиторий включает себя выполнение вычислительных задач, используя подход распараллеливания нагрузки на GPU.
 
 1. [MatMul](https://github.com/vmokook/HPC-2023/blob/main/MatMul/MatrixMult.md)
-
 
 2. [VectorSum](https://github.com/vmokook/HPC-2023/blob/main/VectorSum/VectorSummy.md)
 
